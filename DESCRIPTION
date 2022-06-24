@@ -22,7 +22,6 @@ Imports:
     novaSurvey (>= 1.0),
     novaTraffic (>= 0.1.0),
     novaUtils (>= 1.0),
-    novaverse (>= 0.1.0),
     rstudioapi,
     utils
 Remotes:  
