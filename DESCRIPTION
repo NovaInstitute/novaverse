@@ -2,7 +2,7 @@ Package: novaverse
 Type: Package
 Title: All Nova R Packages
 Version: 0.1.0
-Author: Lucia Pauw
+Author: Nova Institute
 Maintainer: Lucia Pauw <lucia.pauw.lp@gmail.com>
 Description: This metapackage combines all the Nova Institute's R packages
   into a tidyverse-style library for ease of use and programming.
@@ -26,12 +26,12 @@ Imports:
     rstudioapi,
     utils
 Remotes:  
-    https://github.com/LuciaPauw/novaAI.git,
-    https://github.com/LuciaPauw/novaFire.git,
-    https://github.com/LuciaPauw/novaIndicators.git,
-    https://github.com/LuciaPauw/novaReport.git,
-    https://github.com/LuciaPauw/novaTraffic.git,
-    https://github.com/LuciaPauw/novaUtils.git,
-    https://github.com/LuciaPauw/novaQOLReport.git,
-    https://github.com/LuciaPauw/novaSurvey.git,
+    https://github.com/NovaInstitute/novaAI.git,
+    https://github.com/NovaInstitute/novaFire.git,
+    https://github.com/NovaInstitute/novaIndicators.git,
+    https://github.com/NovaInstitute/novaReport.git,
+    https://github.com/NovaInstitute/novaTraffic.git,
+    https://github.com/NovaInstitute/novaUtils.git,
+    https://github.com/NovaInstitute/novaQOLReport.git,
+    https://github.com/NovaInstitute/novaSurvey.git,
     LuciaPauw
