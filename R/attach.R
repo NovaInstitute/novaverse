@@ -1,5 +1,5 @@
 
-pkgs <- c("novaAI", "novaFire", "novaIndicators", "novaMobenzi", "novaReport", "novaTraffic", "novaUtils", "novaHAQ", "novaQOLReport", "novaSurvey")
+pkgs <- c("novaAI", "novaFire", "novaIndicators", "novaReport", "novaTraffic", "novaUtils", "novaQOLReport", "novaSurvey")
 
 novaverse_attach <- function() {
   # Create `to_load` which is a character vector of all novaverse
